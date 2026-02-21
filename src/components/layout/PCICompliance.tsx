@@ -1,4 +1,3 @@
-import { Shield } from "lucide-react";
 import pciCertified from "../../assets/logo/pciservice.jpg";
 
 export default function PCICompliance() {

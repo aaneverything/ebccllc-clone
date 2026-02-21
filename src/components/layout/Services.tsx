@@ -10,59 +10,67 @@ import {
   MessageSquare,
   ClipboardCheck,
   Layers,
-  Globe,
-  TrendingUp,
 } from "lucide-react";
 
 const services = [
   {
     title: "Telemarketing Services",
-    description: "With Telemarketing as a core competency, we understand that there are several factors that contribute to successfully outsourcing part or all of your business.",
+    description:
+      "With Telemarketing as a core competency, we understand that there are several factors that contribute to successfully outsourcing part or all of your business.",
     icon: Phone,
   },
   {
     title: "Qualified Sales Leads",
-    description: "The experts at Quality Contact Solutions will help you by generating the highly qualified sales leads that will meet and exceed your expectations.",
+    description:
+      "The experts at Quality Contact Solutions will help you by generating the highly qualified sales leads that will meet and exceed your expectations.",
     icon: Headphones,
   },
   {
     title: "Consulting & Outsourced Telemarketing QA",
-    description: "As call center experts, we can quickly and cost-effectively help you solve your most challenging problems. As industry experts, we know the telemarketing and call center regulations and how they apply to your business.",
+    description:
+      "As call center experts, we can quickly and cost-effectively help you solve your most challenging problems. As industry experts, we know the telemarketing and call center regulations and how they apply to your business.",
     icon: ClipboardCheck,
   },
   {
     title: "B2B Outbound Marketing",
-    description: "If you are considering a telemarketing firm for B2B outbound marketing solutions, look no further. Quality Contact Solutions is your premier choice for B2B outbound marketing.",
+    description:
+      "If you are considering a telemarketing firm for B2B outbound marketing solutions, look no further. Quality Contact Solutions is your premier choice for B2B outbound marketing.",
     icon: Briefcase,
   },
   {
     title: "B2C Outbound Marketing",
-    description: "Using outbound marketing has become a cost effective solution for organizations looking to increase sales with the help of outside expertise.",
+    description:
+      "Using outbound marketing has become a cost effective solution for organizations looking to increase sales with the help of outside expertise.",
     icon: Phone,
   },
   {
     title: "Inbound Call Center",
-    description: "We are experts at helping you create a staffing plan and forecast to ensure your calls are handled with minimum wait time and maximum customer experience.",
+    description:
+      "We are experts at helping you create a staffing plan and forecast to ensure your calls are handled with minimum wait time and maximum customer experience.",
     icon: Phone,
   },
   {
     title: "Telemarketing Lead Generation",
-    description: "By utilizing our business to business lead generation services, your sales team is supplied with a steady stream of qualified leads to help you hit your sales goal.",
+    description:
+      "By utilizing our business to business lead generation services, your sales team is supplied with a steady stream of qualified leads to help you hit your sales goal.",
     icon: BarChart3,
   },
   {
     title: "Shared & Dedicated Inbound Call Center",
-    description: "Most shared programs will use a team of call center agents that are more experienced and have longer tenure with the inbound service agency.",
+    description:
+      "Most shared programs will use a team of call center agents that are more experienced and have longer tenure with the inbound service agency.",
     icon: Users,
   },
   {
     title: "Blended Call Center",
-    description: "At Quality Contact Solutions, 100% of our workstations have an omni-channel capability. In short, this means that the same workstation can seamlessly handle an inbound call, outbound call, email, text or chat.",
+    description:
+      "At Quality Contact Solutions, 100% of our workstations have an omni-channel capability. In short, this means that the same workstation can seamlessly handle an inbound call, outbound call, email, text or chat.",
     icon: Layers,
   },
   {
     title: "Appointment Setting",
-    description: "At Quality Contact Solutions, we understand that building a pipeline of new customers is essential to attaining sales goals. One of the common tacticts employed to secure these new customers is through Appointment Setting.",
+    description:
+      "At Quality Contact Solutions, we understand that building a pipeline of new customers is essential to attaining sales goals. One of the common tacticts employed to secure these new customers is through Appointment Setting.",
     icon: MessageSquare,
   },
 ];
